@@ -1,4 +1,4 @@
-package br.com.senai.lambdas;
+package br.com.senai.stream;
 
 import java.util.ArrayList;
 import java.util.Comparator;
